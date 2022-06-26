@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeengtk=self.webpackChunkeengtk||[]).push([[683],{3774:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"greetings","count":1,"permalink":"/blog/tags/greetings"}')}}]);
