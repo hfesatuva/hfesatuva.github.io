@@ -9,13 +9,13 @@ const config = {
   title: "HFES @ UVa",
   tagline:
     "Welcome to the official website of the University of Virginia chapter of the Human Factors and Ergonomics Society!",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://hfes.atuva.ga",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/hfes.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "hfesatuva", // Usually your GitHub org/user name.
+  projectName: "website", // Usually your repo name.
 
   presets: [
     [
