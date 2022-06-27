@@ -25,12 +25,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/hfesatuva/website/",
+          editUrl: "https://github.com/hfesatuva/website/tree/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: "https://github.com/hfesatuva/website/",
+          editUrl: "https://github.com/hfesatuva/website/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
