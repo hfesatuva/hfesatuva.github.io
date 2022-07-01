@@ -22,3 +22,9 @@ sidebar_position: 2
 #### Associate Professor of Systems and Information Engineering
 
 ![Gregory Gerling](https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/SEAS_29Sep2021_ByTomDaly-98.jpg?itok=lldioFnF)
+
+### Rupa S. Valdez, Ph.D.
+
+#### Associate Professor of Systems and Information Engineering, Associate Professor of Public Health Sciences
+
+![Rupa Valdez](https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/Rupa.png?itok=VRk2F6q3)

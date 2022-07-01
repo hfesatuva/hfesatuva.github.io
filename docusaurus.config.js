@@ -60,7 +60,17 @@ const config = {
             position: "left",
             label: "Information",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "/cal",
+            label: "Calendar",
+            position: "left",
+          },
+          {
+            href: "https://learn.hfes.atuva.ga",
+            label: "Resources Site",
+            position: "right",
+          },
+          // { to: "/blog", label: "Blog", position: "left" },
           // {
           //   href: "https://github.com/facebook/docusaurus",
           //   label: "GitHub",
